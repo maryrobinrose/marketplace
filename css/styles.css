@@ -1,0 +1,28 @@
+.receipt {
+  /* display: none; */
+  width: 500px;
+  background-color: #A0A0A0;
+  padding: 30px;
+  margin-top: 50px;
+}
+
+body {
+  background-color: gray;
+}
+
+.container {
+  background-color: lightgray;
+  padding: 100px;
+}
+
+.header {
+  background-color: #556B2F;
+  height: 100px;
+  text-align: center;
+}
+
+h1 {
+  color: white;
+  line-height: 2.5em;
+  font-weight: lighter;
+}
